@@ -34,3 +34,6 @@ git config --global --add user.name “Aquí va tu nombre”
 
 
 Edad 32
+
+
+Tecnologo en sistemas 
