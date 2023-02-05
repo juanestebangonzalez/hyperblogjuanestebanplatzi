@@ -2,7 +2,7 @@ body
 {
     color:#333;
     text-align: center;
-    font-family: "Courier";
+    font-family: "Arial";
     font-size: 15px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 
 #cabecera 
 {
-        background:blueviolet;
+        background:gray;
         box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
         color: white;
         font-weight: bold;
@@ -38,6 +38,7 @@ body
 #container h1
 {
     font-size: 20px;
+    color: green;
 }
 
 #post {
@@ -45,9 +46,5 @@ body
 }
 
 p{
-    color: yellowgreen;
-}
-
-#post {
-    padding: 1em;
+    color: red;
 }
