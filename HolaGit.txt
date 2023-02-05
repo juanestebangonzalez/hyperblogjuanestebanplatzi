@@ -33,4 +33,4 @@ git config --global --unset-all user.name :Elimina el nombre del usuario
 git config --global --add user.name “Aquí va tu nombre”
 
 
-Edad 122 
+Edad 32
