@@ -2,7 +2,7 @@ body
 {
     color:#333;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
     font-size: 15px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 
 #cabecera 
 {
-        background:gray;
+        background:Blue;
         box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
         color: white;
         font-weight: bold;
@@ -27,7 +27,7 @@ body
 
 #cabecera 
 {
-        background:#DDD;
+        background:rgb(47, 120, 255);
         box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
         color: white;
         font-weight: bold;
@@ -55,21 +55,10 @@ body
 #container h1
 {
     font-size: 20px;
-    color: green;
+    
 }
 
 #post {
     padding: 1em;
 }
 
-p{
-    color: red;
-}
-
-#post {
-    padding: 1em;
-}
-
-p{
-    color: blueviolet;
-}
