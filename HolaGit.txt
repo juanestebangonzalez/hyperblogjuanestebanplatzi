@@ -31,3 +31,6 @@ git config --global --replace-all user.name “Aquí va tu nombre modificado”
 O si lo deseas eliminar y añadir uno nuevo
 git config --global --unset-all user.name :Elimina el nombre del usuario
 git config --global --add user.name “Aquí va tu nombre”
+
+
+Edad 122 
