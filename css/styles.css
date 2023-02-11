@@ -16,12 +16,12 @@ body
 
 #cabecera 
 {
-        background:purple;
-        box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-        color: red;
-        font-weight: bold;
-        margin: 0;
-        padding: 0.5em;
+    background:purple;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: red;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 
 #container
@@ -42,5 +42,13 @@ body
 
 #post {
     padding: 1em;
+}
+
+footer
+{
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    color: blue;
 }
 
