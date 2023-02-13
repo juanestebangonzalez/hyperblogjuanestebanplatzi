@@ -18,7 +18,7 @@ body
 #cabecera 
 {
     background:purple;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 2px 20px 0px green;
     color: red;
     font-weight: bold;
     margin: 0;
@@ -46,8 +46,11 @@ body
 footer
 {
     text-align: center;
+    box-shadow: 0px 2px 20px 0px yellow;
     text-decoration: none;
     font-weight: 700;
     color: blue;
-}
+    margin: 0;
+    padding: 0.5em;
+    
 
