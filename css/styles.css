@@ -33,7 +33,10 @@ body
     border: 2px solid #DDD;
     margin: 0 auto;
 }
+img{
+    width: 15%;
 
+}
 #container h1
 {
     font-size: 20px;
